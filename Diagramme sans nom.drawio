@@ -4,82 +4,82 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-32" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;VERS TIKO, MUTENGUENE, LIMBE&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-32" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;VERS TIKO, MUTENGUENE, LIMBE&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="422" y="622.5" width="169.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-16" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Rond point DEIDO DOUALA&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-16" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Rond point DEIDO DOUALA&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="582.5" y="120" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-19" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ALLANT VERS ROND POINT 4EME&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-19" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ALLANT VERS ROND POINT 4EME&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="632.5" y="132" width="156" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-20" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;VENANT DE AKWA NORD&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-20" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;VENANT DE AKWA NORD&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="462.5" y="130" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-21" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ALLANT A BONABERI PAR LE PONT&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-21" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ALLANT A BONABERI PAR LE PONT&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="542.5" y="217.5" width="130" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-22" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="544.5" y="303" as="sourcePoint" />
             <mxPoint x="674.5" y="303" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-23" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="545.5" y="328" as="sourcePoint" />
             <mxPoint x="675.5" y="328" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-25" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;PONT DU WOURI&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-25" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;PONT DU WOURI&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="582.5" y="299" width="52.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-26" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;VERS NATIONAL N3&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-26" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;VERS NATIONAL N3&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="548" y="374" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-27" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;VENANT DE FEU ROUGE&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-27" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;VENANT DE FEU ROUGE&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="542.5" y="42.5" width="115" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-28" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ECHANGEUR BEKOKO&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-28" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ECHANGEUR BEKOKO&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="593.5" y="621" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-29" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;ALLANT VERS SOUZA&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-29" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;ALLANT VERS SOUZA&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="554" y="716" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-30" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;CARREFOUR MUTZIG&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-30" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;CARREFOUR MUTZIG&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="589.75" y="460" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-31" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;SUR LA NATIONAL N3&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-31" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;SUR LA NATIONAL N3&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="557" y="547" width="117.5" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-35" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;VERS MIONDO BAR&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-35" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;VERS MIONDO BAR&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="226" y="622.5" width="169.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-37" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="399" y="672" as="sourcePoint" />
             <mxPoint x="399" y="609.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-38" value="Dos d&#39;ane" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-38" value="Dos d&#39;ane" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="382" y="627.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-40" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="417" y="670" as="sourcePoint" />
             <mxPoint x="417" y="607.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-41" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;VERS LYCEE BILINGUE&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;DE BEKOKO&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-41" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;VERS BABENGA&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="273" y="852" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-42" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ENTREE&amp;nbsp; CHEFFERIE&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;BEKOKO&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-42" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ENTREE&amp;nbsp; CHEFFERIE&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;BEKOKO&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="192" y="778" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-43" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ENTREE LYCEE BILINGUE&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;BEKOKO&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-43" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ENTREE LYCEE BILINGUE&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;BEKOKO&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="352.5" y="778" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-45" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;VERS LYCEE BILINGUE&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;DE BEKOKO&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="zjFkRWTAa5tzMXiPFI8Z-45" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;VERS LYCEE BILINGUE&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;DE BEKOKO&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="272" y="710" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
