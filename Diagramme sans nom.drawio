@@ -82,6 +82,9 @@
         <mxCell id="zjFkRWTAa5tzMXiPFI8Z-45" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;VERS LYCEE BILINGUE&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;DE BEKOKO&lt;/font&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="272" y="710" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="73eSh50KUTgGbSfqoSq2-1" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ENTREE VRAI EGLISE DE DIEU&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="930" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
