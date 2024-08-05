@@ -91,6 +91,15 @@
         <mxCell id="73eSh50KUTgGbSfqoSq2-3" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="540" y="930" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="73eSh50KUTgGbSfqoSq2-4" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;VERS BWADIBO&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="260.25" y="1040" width="145.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="73eSh50KUTgGbSfqoSq2-5" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1010" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="73eSh50KUTgGbSfqoSq2-6" value="MADAME TOTO BAR" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1080" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
